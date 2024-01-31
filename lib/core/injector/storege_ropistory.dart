@@ -24,11 +24,6 @@ class HiveService {
   Box get box => _box;
 }
 
-
-
-
-
-
 // import 'package:shared_preferences/shared_preferences.dart';
 //
 // class StorageRepository {
